@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dgonzalez/music-player/issues"
   },
-  "homepage": "https://github.com/dgonzalez/music-player#readme"
+  "homepage": "https://github.com/dgonzalez/music-player#readme",
+  "devDependencies": {
+    "electron": "^35.1.1"
+  }
 }
